@@ -1,0 +1,19 @@
+{
+  "name": "02_expresscrashcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "alive": "nodemon index.js"
+  },
+  "author": "yashgosavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
